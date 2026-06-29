@@ -436,7 +436,3 @@ This project was built to practice and reinforce:
 * designing a reusable conversion system
 
 ---
-<img width="1918" height="1079" alt="Screenshot 2026-06-29 175553" src="https://github.com/user-attachments/assets/2002094e-ec2c-4d89-b168-afb34f574471" />
-<img width="1919" height="1079" alt="Screenshot 2026-06-29 180027" src="https://github.com/user-attachments/assets/4be3e70d-0595-4b60-a99a-2f87888dd16d" />
-<img width="1919" height="1079" alt="Screenshot 2026-06-29 175714" src="https://github.com/user-attachments/assets/70b50aae-250e-43a5-b52e-969730e74155" />
-
